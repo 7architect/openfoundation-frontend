@@ -38,7 +38,7 @@
     "prettier": "1.19.1",
     "husky": "4.2.5",
     "lint-staged": "10.2.6",
-    "@nuxtjs/stylelint-module": "3.2.2",
+    "@nuxtjs/stylelint-module": "4.0.0",
     "stylelint": "10.1.0",
     "@vue/test-utils": "1.0.3",
     "babel-jest": "24.9.0",
